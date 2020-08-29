@@ -7,13 +7,13 @@
 
 #### **Repositories**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rauanisanfelice&repo=template-django&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rauanisanfelice&repo=template-django&theme=gotham)](https://github.com/rauanisanfelice/template-django)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rauanisanfelice&repo=easy-park&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rauanisanfelice&repo=easy-park&theme=gotham)](https://github.com/rauanisanfelice/easy-park)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rauanisanfelice&repo=mapbox&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rauanisanfelice&repo=mapbox&theme=gotham)](https://github.com/rauanisanfelice/mapbox)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rauanisanfelice&repo=python-wine&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rauanisanfelice&repo=python-wine&theme=gotham)](https://github.com/rauanisanfelice/python-wine)
 
 
 #### **Top Langs**
