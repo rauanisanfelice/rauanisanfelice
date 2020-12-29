@@ -1,7 +1,6 @@
 # **Olá, seja bem vindo(a)!** 👋
 
-<img style="border: 10px solid black" alt="Rauan Ishida Sanfelice | Mail" width="140px" height="300px" src="./img/cafevinho.jpeg" />
-<br><br>
+<img style="border: 10px solid black" alt="Rauan Ishida Sanfelice | Mail" width="140px" height="300px" src="https://raw.githubusercontent.com/rauanisanfelice/rauanisanfelice/master/img/cafevinho.jpeg" />
 
 ## **Entre em contato**
 
