@@ -10,9 +10,6 @@
 <a href="https://open.spotify.com/user/12157945755">
   <img align="left" alt="Rauan Ishida Sanfelice | Spotify" width="25px" height="25px" style="margin-right:5px" src="https://raw.githubusercontent.com/rauanisanfelice/rauanisanfelice/master/img/spotify.png" />
 </a>
-<a href="tel:+55017996272605">
-  <img align="left" alt="Rauan Ishida Sanfelice | WhatsApp" width="25px" height="25px" style="margin-right:5px" src="https://raw.githubusercontent.com/rauanisanfelice/rauanisanfelice/master/img/whatsapp.png" />
-</a>
 <a href="mailto:rauan.sanfelice@gmail.com">
   <img align="left" alt="Rauan Ishida Sanfelice | Mail" width="25px" height="25px" src="https://raw.githubusercontent.com/rauanisanfelice/rauanisanfelice/master/img/gmail.png" />
 </a><br><br>
