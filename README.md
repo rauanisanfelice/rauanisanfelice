@@ -4,7 +4,7 @@
 
 ## **Entre em contato**
 
-<a href="https://open.spotify.com/user/12157945755">
+<a href="https://www.linkedin.com/in/rauan-ishida-sanfelice/">
   <img align="left" alt="Rauan Ishida Sanfelice | Spotify" width="25px" height="25px" style="margin-right:5px" src="https://raw.githubusercontent.com/rauanisanfelice/rauanisanfelice/master/img/linkedin.png" />
 </a>
 <a href="https://open.spotify.com/user/12157945755">
