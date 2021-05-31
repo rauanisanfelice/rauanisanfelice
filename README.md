@@ -1,3 +1,5 @@
+![Sanke animation](https://github.com/rauanisanfelice/rauanisanfelice/blob/output/github-contribution-grid-snake.svg)
+
 # **Olá, seja bem vindo(a)!** 👋
 
 <img style="border: 10px solid black" alt="Rauan Ishida Sanfelice | Mail" width="140px" height="300px" src="https://raw.githubusercontent.com/rauanisanfelice/rauanisanfelice/master/img/cafevinho.jpeg" />
