@@ -19,6 +19,3 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rauanisanfelice&count_private=true&hide=issues&show_icons=true&theme=gotham)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauanisanfelice&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Sanke animation](https://github.com/rauanisanfelice/rauanisanfelice/blob/output/github-contribution-grid-snake.svg)
